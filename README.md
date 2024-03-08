@@ -1,6 +1,6 @@
 # The Legacy of Akira Toriyama
 
-Welcome to the homage of Akira Toriyama's remarkable legacy! This repository celebrates the influential work of the renowned manga artist and character designer, best known for creating the iconic series, Dragon Ball.
+This github repository is meant to be a dedication to the amazing mangaka known as Akira Toriyama
 
 ## About Akira Toriyama
 
