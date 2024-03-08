@@ -8,7 +8,7 @@ Akira Toriyama is a Japanese manga artist and character designer born on April 5
 
 ## Dragon Ball - A Cultural Phenomenon
 
-![Dragon Ball Logo]([https://example.com/dragon-ball-logo.jpg](https://i.ytimg.com/vi/mAm0JAnk6bg/maxresdefault.jpg))
+![Dragon Ball Logo]([maxresdefault.jpg))
 
 Dragon Ball, created by Akira Toriyama, is one of the most beloved and influential anime and manga series of all time. Spanning multiple sagas, it follows the adventures of Goku and his friends as they journey through various worlds, battling powerful foes and seeking the mystical Dragon Balls.
 
