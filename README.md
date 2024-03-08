@@ -12,7 +12,7 @@ Akira Toryiama has had a massive cultural impact on anime with the anime Dragon 
 
 Dragon Ball, created by Akira Toriyama, is one of the most beloved and influential anime and manga series of all time. Spanning multiple sagas, it follows the adventures of Goku and his friends as they journey through various worlds, battling powerful foes and seeking the mystical Dragon Balls.
 
-## Characters That Became Legends
+## Akira Toriyama Characters
 
 ![Goku](https://example.com/goku.jpg)
 ![Vegeta](https://example.com/vegeta.jpg)
@@ -21,12 +21,4 @@ Dragon Ball, created by Akira Toriyama, is one of the most beloved and influenti
 
 The characters conceived by Toriyama-sensei have become cultural icons, inspiring generations of fans worldwide. From the determined Goku to the proud Vegeta, each character is imbued with depth, personality, and memorable traits that resonate with audiences.
 
-## Beyond Dragon Ball
-
-Toriyama's influence extends far beyond Dragon Ball. He has contributed to numerous other manga series, video games, and even designed characters for animated films.
-
-## Contributing
-
-This repository is open to contributions that celebrate the legacy of Akira Toriyama. Feel free to add images, artwork, or any other content that pays homage to his extraordinary talent and impact on popular culture.
-
-Let's continue to honor the creative genius of Akira Toriyama and the enduring legacy of Dragon Ball!
+Full Tribute Page will be available at [Akira Toriyama Tribute](https://www.google.com "Google's Homepage")
