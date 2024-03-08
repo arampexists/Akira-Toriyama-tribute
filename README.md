@@ -4,7 +4,7 @@ Welcome to the homage of Akira Toriyama's remarkable legacy! This repository cel
 
 ## About Akira Toriyama
 
-Akira Toriyama is a Japanese manga artist and character designer born on April 5, 1955. He gained worldwide recognition for his exceptional storytelling and unique character designs, which have left an indelible mark on the world of manga and anime.
+Akira Toryiama has had a massive cultural impact on anime with the anime Dragon Ball Z being one of the first anime Funimation dubbed into English. Akira Toriyama has popularized anime around the world thanks due to the amazing work and dedication put into the works he has created over the years. Dragon Ball Z was popular all over the world with it being incredibly popular in places such as Asia, Europe and the Americas. Akira Toriyma has not just worked on Dragon Ball Z with his first manga being that of Dr. Slump which was first released in the year 1978. 
 
 ## Dragon Ball - A Cultural Phenomenon
 
