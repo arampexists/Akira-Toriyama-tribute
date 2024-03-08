@@ -18,6 +18,7 @@ Dragon Ball, created by Akira Toriyama, is one of the most beloved and influenti
 ![Vegeta](https://example.com/vegeta.jpg)
 ![Piccolo](https://example.com/piccolo.jpg)
 ![Gohan](https://example.com/gohan.jpg)
+![Dr. Slump](a.jpg)
 
 The characters conceived by Toriyama-sensei have become cultural icons, inspiring generations of fans worldwide. From the determined Goku to the proud Vegeta, each character is imbued with depth, personality, and memorable traits that resonate with audiences.
 
