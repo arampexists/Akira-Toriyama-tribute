@@ -22,4 +22,4 @@ Dragon Ball, created by Akira Toriyama, is one of the most beloved and influenti
 
 The characters conceived by Toriyama-sensei have become cultural icons, inspiring generations of fans worldwide. From the determined Goku to the proud Vegeta, each character is imbued with depth, personality, and memorable traits that resonate with audiences.
 
-Full Tribute Page will be available at [Akira Toriyama Tribute](main.html")
+Full Tribute Page will be available at [Akira Toriyama Tribute](index.html")
